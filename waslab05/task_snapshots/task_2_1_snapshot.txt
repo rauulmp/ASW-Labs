@@ -1,0 +1,593 @@
+[
+    {
+        "id": 1007295157,
+        "id_str": "1007295157",
+        "name": "Lily Reyes",
+        "screen_name": "lillerh",
+        "location": "Barcelona",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 70,
+        "friends_count": 228,
+        "listed_count": 0,
+        "created_at": "Wed Dec 12 20:54:26 +0000 2012",
+        "favourites_count": 15,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 90,
+        "lang": "es",
+        "status": {
+            "created_at": "Wed Aug 01 13:48:57 +0000 2018",
+            "id": 1024653211897147392,
+            "id_str": "1024653211897147392",
+            "text": "RT @gallifantes: A la gloriosa @guardiacivil ya le está bien que un foro que lleva su nombre llame perra a una mujer? Pregunto https://t.co…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "gallifantes",
+                        "name": "Cris 🎗",
+                        "id": 250801453,
+                        "id_str": "250801453",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "guardiacivil",
+                        "name": "Guardia Civil 🇪🇸",
+                        "id": 295608887,
+                        "id_str": "295608887",
+                        "indices": [
+                            31,
+                            44
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Jul 31 19:07:47 +0000 2018",
+                "id": 1024371062023368705,
+                "id_str": "1024371062023368705",
+                "text": "A la gloriosa @guardiacivil ya le está bien que un foro que lleva su nombre llame perra a una mujer? Pregunto https://t.co/J3fPpJo7IB",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "guardiacivil",
+                            "name": "Guardia Civil 🇪🇸",
+                            "id": 295608887,
+                            "id_str": "295608887",
+                            "indices": [
+                                14,
+                                27
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1024371054469427200,
+                            "id_str": "1024371054469427200",
+                            "indices": [
+                                110,
+                                133
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DjdMC_PXsAASZ39.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DjdMC_PXsAASZ39.jpg",
+                            "url": "https://t.co/J3fPpJo7IB",
+                            "display_url": "pic.twitter.com/J3fPpJo7IB",
+                            "expanded_url": "https://twitter.com/gallifantes/status/1024371062023368705/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1080,
+                                    "h": 889,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 560,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1080,
+                                    "h": 889,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1024371054469427200,
+                            "id_str": "1024371054469427200",
+                            "indices": [
+                                110,
+                                133
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DjdMC_PXsAASZ39.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DjdMC_PXsAASZ39.jpg",
+                            "url": "https://t.co/J3fPpJo7IB",
+                            "display_url": "pic.twitter.com/J3fPpJo7IB",
+                            "expanded_url": "https://twitter.com/gallifantes/status/1024371062023368705/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1080,
+                                    "h": 889,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 560,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1080,
+                                    "h": 889,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 742,
+                "favorite_count": 912,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 742,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2967339884/d450bea08fc719d26c2271ed39048ad0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2967339884/d450bea08fc719d26c2271ed39048ad0_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007295157/1355788363",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    {
+        "id": 994035229,
+        "id_str": "994035229",
+        "name": "person.zip",
+        "screen_name": "RedAxim",
+        "location": "",
+        "description": "Ingeniero informático, mente creativa y amante de los juegos. Suelo twittear esporádicamente lo que se me pasa por la cabeza. Gunter & Game Explorer 🎮",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 52,
+        "friends_count": 118,
+        "listed_count": 1,
+        "created_at": "Thu Dec 06 23:38:29 +0000 2012",
+        "favourites_count": 500,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 762,
+        "lang": "es",
+        "status": {
+            "created_at": "Wed Oct 10 14:48:49 +0000 2018",
+            "id": 1050035427468603398,
+            "id_str": "1050035427468603398",
+            "text": "@hega_brian report CoreJJ",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "hega_brian",
+                        "name": "Brian Herrera",
+                        "id": 3425405811,
+                        "id_str": "3425405811",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": 1050031277661933568,
+            "in_reply_to_status_id_str": "1050031277661933568",
+            "in_reply_to_user_id": 3425405811,
+            "in_reply_to_user_id_str": "3425405811",
+            "in_reply_to_screen_name": "hega_brian",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0000FF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/584072142557470720/j_Kz7VP5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/584072142557470720/j_Kz7VP5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/994035229/1428089136",
+        "profile_link_color": "10317C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    {
+        "id": 609801938,
+        "id_str": "609801938",
+        "name": "iCity project",
+        "screen_name": "icityproject",
+        "location": "Europe",
+        "description": "Through #iCityPlatform, and interacting with opened city’s Information Systems, IT partners develop applications that provide public interest services #iCityEU",
+        "url": "http://t.co/H97SyU9HVu",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/H97SyU9HVu",
+                        "expanded_url": "http://www.icityproject.eu/",
+                        "display_url": "icityproject.eu",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1026,
+        "friends_count": 768,
+        "listed_count": 69,
+        "created_at": "Sat Jun 16 08:07:36 +0000 2012",
+        "favourites_count": 407,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 917,
+        "lang": "en",
+        "status": {
+            "created_at": "Tue Dec 22 17:25:19 +0000 2015",
+            "id": 679352024853553154,
+            "id_str": "679352024853553154",
+            "text": "Don't miss the last news of the project, check the newsletter! https://t.co/B2BUcqykCw",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/B2BUcqykCw",
+                        "expanded_url": "http://ow.ly/Wdjpr",
+                        "display_url": "ow.ly/Wdjpr",
+                        "indices": [
+                            63,
+                            86
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 4,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "2F3233",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/481727108226375680/T7Fwk_41_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/481727108226375680/T7Fwk_41_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/609801938/1404472975",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    {
+        "id": 546606458,
+        "id_str": "546606458",
+        "name": "FoG",
+        "screen_name": "FoG3544",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 113,
+        "friends_count": 688,
+        "listed_count": 4,
+        "created_at": "Fri Apr 06 07:28:30 +0000 2012",
+        "favourites_count": 29,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 120,
+        "lang": "pt",
+        "status": {
+            "created_at": "Wed Apr 04 13:45:07 +0000 2018",
+            "id": 981528090903040000,
+            "id_str": "981528090903040000",
+            "text": "@eventimDE Tickets für Ed Sheeran vor einem Jahr gekauft und diese wurden noch nicht gesendet. Immer noch keine Lös… https://t.co/FEpGRFkfNL",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "eventimDE",
+                        "name": "Eventim (DE)",
+                        "id": 75988929,
+                        "id_str": "75988929",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/FEpGRFkfNL",
+                        "expanded_url": "https://twitter.com/i/web/status/981528090903040000",
+                        "display_url": "twitter.com/i/web/status/9…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 75988929,
+            "in_reply_to_user_id_str": "75988929",
+            "in_reply_to_screen_name": "eventimDE",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "de"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    {
+        "id": 130603927,
+        "id_str": "130603927",
+        "name": "Andrés Aznar",
+        "screen_name": "AndresAzetta",
+        "location": "Barcelona",
+        "description": "Periodista, consultor de comunicación y PR @atrevia. Máster en Comunicación Política e Institucional (idEC-UPF) y Máster en Televisión (URJC).",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 7249,
+        "friends_count": 1670,
+        "listed_count": 46,
+        "created_at": "Wed Apr 07 19:50:43 +0000 2010",
+        "favourites_count": 164,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2070,
+        "lang": "es",
+        "status": {
+            "created_at": "Tue Oct 09 07:00:44 +0000 2018",
+            "id": 1049555242700984322,
+            "id_str": "1049555242700984322",
+            "text": "\"ColaCao, Premio a la Excelencia en Marketing Deportivo por sus 70 años apoyando el deporte\" https://t.co/WYJtM5RVi3",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/WYJtM5RVi3",
+                        "expanded_url": "https://www.reasonwhy.es/actualidad/colacao-premio-marketing-deportivo-marcas-apoyo-deporte-espa%C3%B1ol-2018",
+                        "display_url": "reasonwhy.es/actualidad/col…",
+                        "indices": [
+                            93,
+                            116
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "6F7175",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/831421296789553152/d7PwBviQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/831421296789553152/d7PwBviQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/130603927/1414601265",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "45484D",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "7890F0",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    }
+]

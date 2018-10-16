@@ -1,0 +1,364 @@
+[
+    {
+        "trends": [
+            {
+                "name": "#OTDirecto16OCT",
+                "url": "http://twitter.com/search?q=%23OTDirecto16OCT",
+                "promoted_content": null,
+                "query": "%23OTDirecto16OCT",
+                "tweet_volume": 39109
+            },
+            {
+                "name": "#cardiomaratón061",
+                "url": "http://twitter.com/search?q=%23cardiomarat%C3%B3n061",
+                "promoted_content": null,
+                "query": "%23cardiomarat%C3%B3n061",
+                "tweet_volume": null
+            },
+            {
+                "name": "#DíaMundialdelaAlimentación",
+                "url": "http://twitter.com/search?q=%23D%C3%ADaMundialdelaAlimentaci%C3%B3n",
+                "promoted_content": null,
+                "query": "%23D%C3%ADaMundialdelaAlimentaci%C3%B3n",
+                "tweet_volume": 21029
+            },
+            {
+                "name": "#FelizMartes",
+                "url": "http://twitter.com/search?q=%23FelizMartes",
+                "promoted_content": null,
+                "query": "%23FelizMartes",
+                "tweet_volume": 40175
+            },
+            {
+                "name": "Inglaterra",
+                "url": "http://twitter.com/search?q=Inglaterra",
+                "promoted_content": null,
+                "query": "Inglaterra",
+                "tweet_volume": 42879
+            },
+            {
+                "name": "Junta",
+                "url": "http://twitter.com/search?q=Junta",
+                "promoted_content": null,
+                "query": "Junta",
+                "tweet_volume": 28545
+            },
+            {
+                "name": "Villamarín",
+                "url": "http://twitter.com/search?q=Villamar%C3%ADn",
+                "promoted_content": null,
+                "query": "Villamar%C3%ADn",
+                "tweet_volume": 15021
+            },
+            {
+                "name": "#susanadíazrne",
+                "url": "http://twitter.com/search?q=%23susanad%C3%ADazrne",
+                "promoted_content": null,
+                "query": "%23susanad%C3%ADazrne",
+                "tweet_volume": null
+            },
+            {
+                "name": "Ana Penyas",
+                "url": "http://twitter.com/search?q=%22Ana+Penyas%22",
+                "promoted_content": null,
+                "query": "%22Ana+Penyas%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "La Bañeza",
+                "url": "http://twitter.com/search?q=%22La+Ba%C3%B1eza%22",
+                "promoted_content": null,
+                "query": "%22La+Ba%C3%B1eza%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Auryn",
+                "url": "http://twitter.com/search?q=Auryn",
+                "promoted_content": null,
+                "query": "Auryn",
+                "tweet_volume": null
+            },
+            {
+                "name": "Andrés Montes",
+                "url": "http://twitter.com/search?q=%22Andr%C3%A9s+Montes%22",
+                "promoted_content": null,
+                "query": "%22Andr%C3%A9s+Montes%22",
+                "tweet_volume": 11787
+            },
+            {
+                "name": "Hernani",
+                "url": "http://twitter.com/search?q=Hernani",
+                "promoted_content": null,
+                "query": "Hernani",
+                "tweet_volume": null
+            },
+            {
+                "name": "Oscar Wilde",
+                "url": "http://twitter.com/search?q=%22Oscar+Wilde%22",
+                "promoted_content": null,
+                "query": "%22Oscar+Wilde%22",
+                "tweet_volume": 12866
+            },
+            {
+                "name": "Obama y Trudeau",
+                "url": "http://twitter.com/search?q=%22Obama+y+Trudeau%22",
+                "promoted_content": null,
+                "query": "%22Obama+y+Trudeau%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Edificio España",
+                "url": "http://twitter.com/search?q=%22Edificio+Espa%C3%B1a%22",
+                "promoted_content": null,
+                "query": "%22Edificio+Espa%C3%B1a%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Salesianos",
+                "url": "http://twitter.com/search?q=Salesianos",
+                "promoted_content": null,
+                "query": "Salesianos",
+                "tweet_volume": null
+            },
+            {
+                "name": "Arahal",
+                "url": "http://twitter.com/search?q=Arahal",
+                "promoted_content": null,
+                "query": "Arahal",
+                "tweet_volume": null
+            },
+            {
+                "name": "Tejero",
+                "url": "http://twitter.com/search?q=Tejero",
+                "promoted_content": null,
+                "query": "Tejero",
+                "tweet_volume": 22537
+            },
+            {
+                "name": "Constitucional",
+                "url": "http://twitter.com/search?q=Constitucional",
+                "promoted_content": null,
+                "query": "Constitucional",
+                "tweet_volume": 21812
+            },
+            {
+                "name": "Pascual Sala",
+                "url": "http://twitter.com/search?q=%22Pascual+Sala%22",
+                "promoted_content": null,
+                "query": "%22Pascual+Sala%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "El BBVA",
+                "url": "http://twitter.com/search?q=%22El+BBVA%22",
+                "promoted_content": null,
+                "query": "%22El+BBVA%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Rosa García",
+                "url": "http://twitter.com/search?q=%22Rosa+Garc%C3%ADa%22",
+                "promoted_content": null,
+                "query": "%22Rosa+Garc%C3%ADa%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Carmen Sevilla",
+                "url": "http://twitter.com/search?q=%22Carmen+Sevilla%22",
+                "promoted_content": null,
+                "query": "%22Carmen+Sevilla%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Algodonales",
+                "url": "http://twitter.com/search?q=Algodonales",
+                "promoted_content": null,
+                "query": "Algodonales",
+                "tweet_volume": null
+            },
+            {
+                "name": "Streaming",
+                "url": "http://twitter.com/search?q=Streaming",
+                "promoted_content": null,
+                "query": "Streaming",
+                "tweet_volume": 123577
+            },
+            {
+                "name": "El 70%",
+                "url": "http://twitter.com/search?q=%22El+70%25%22",
+                "promoted_content": null,
+                "query": "%22El+70%25%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#GHVIP16O",
+                "url": "http://twitter.com/search?q=%23GHVIP16O",
+                "promoted_content": null,
+                "query": "%23GHVIP16O",
+                "tweet_volume": 34097
+            },
+            {
+                "name": "#Honor8XenPhoneHouse",
+                "url": "http://twitter.com/search?q=%23Honor8XenPhoneHouse",
+                "promoted_content": null,
+                "query": "%23Honor8XenPhoneHouse",
+                "tweet_volume": null
+            },
+            {
+                "name": "#EstaVezPlatino",
+                "url": "http://twitter.com/search?q=%23EstaVezPlatino",
+                "promoted_content": null,
+                "query": "%23EstaVezPlatino",
+                "tweet_volume": null
+            },
+            {
+                "name": "#HuaweiMate20",
+                "url": "http://twitter.com/search?q=%23HuaweiMate20",
+                "promoted_content": null,
+                "query": "%23HuaweiMate20",
+                "tweet_volume": 16158
+            },
+            {
+                "name": "#AnaGuerraEsDoblePlatino",
+                "url": "http://twitter.com/search?q=%23AnaGuerraEsDoblePlatino",
+                "promoted_content": null,
+                "query": "%23AnaGuerraEsDoblePlatino",
+                "tweet_volume": null
+            },
+            {
+                "name": "#WorldFoodDay",
+                "url": "http://twitter.com/search?q=%23WorldFoodDay",
+                "promoted_content": null,
+                "query": "%23WorldFoodDay",
+                "tweet_volume": 136043
+            },
+            {
+                "name": "#BVenture18",
+                "url": "http://twitter.com/search?q=%23BVenture18",
+                "promoted_content": null,
+                "query": "%23BVenture18",
+                "tweet_volume": null
+            },
+            {
+                "name": "#holaCMMPlay",
+                "url": "http://twitter.com/search?q=%23holaCMMPlay",
+                "promoted_content": null,
+                "query": "%23holaCMMPlay",
+                "tweet_volume": null
+            },
+            {
+                "name": "#YaEsMediodia86",
+                "url": "http://twitter.com/search?q=%23YaEsMediodia86",
+                "promoted_content": null,
+                "query": "%23YaEsMediodia86",
+                "tweet_volume": null
+            },
+            {
+                "name": "#HEALTHIO2018",
+                "url": "http://twitter.com/search?q=%23HEALTHIO2018",
+                "promoted_content": null,
+                "query": "%23HEALTHIO2018",
+                "tweet_volume": null
+            },
+            {
+                "name": "#AnimalesFantásticos",
+                "url": "http://twitter.com/search?q=%23AnimalesFant%C3%A1sticos",
+                "promoted_content": null,
+                "query": "%23AnimalesFant%C3%A1sticos",
+                "tweet_volume": null
+            },
+            {
+                "name": "#Pleno",
+                "url": "http://twitter.com/search?q=%23Pleno",
+                "promoted_content": null,
+                "query": "%23Pleno",
+                "tweet_volume": null
+            },
+            {
+                "name": "#Regular1stWin",
+                "url": "http://twitter.com/search?q=%23Regular1stWin",
+                "promoted_content": null,
+                "query": "%23Regular1stWin",
+                "tweet_volume": 311725
+            },
+            {
+                "name": "#LegaForum18",
+                "url": "http://twitter.com/search?q=%23LegaForum18",
+                "promoted_content": null,
+                "query": "%23LegaForum18",
+                "tweet_volume": null
+            },
+            {
+                "name": "#FinalMarina",
+                "url": "http://twitter.com/search?q=%23FinalMarina",
+                "promoted_content": null,
+                "query": "%23FinalMarina",
+                "tweet_volume": null
+            },
+            {
+                "name": "#AlquilerRacista",
+                "url": "http://twitter.com/search?q=%23AlquilerRacista",
+                "promoted_content": null,
+                "query": "%23AlquilerRacista",
+                "tweet_volume": null
+            },
+            {
+                "name": "#3jornadaOPPCC",
+                "url": "http://twitter.com/search?q=%233jornadaOPPCC",
+                "promoted_content": null,
+                "query": "%233jornadaOPPCC",
+                "tweet_volume": null
+            },
+            {
+                "name": "#sida",
+                "url": "http://twitter.com/search?q=%23sida",
+                "promoted_content": null,
+                "query": "%23sida",
+                "tweet_volume": null
+            },
+            {
+                "name": "#WorldsGruposLVP7",
+                "url": "http://twitter.com/search?q=%23WorldsGruposLVP7",
+                "promoted_content": null,
+                "query": "%23WorldsGruposLVP7",
+                "tweet_volume": null
+            },
+            {
+                "name": "#EleccionesAndaluzas",
+                "url": "http://twitter.com/search?q=%23EleccionesAndaluzas",
+                "promoted_content": null,
+                "query": "%23EleccionesAndaluzas",
+                "tweet_volume": null
+            },
+            {
+                "name": "#eutanasia",
+                "url": "http://twitter.com/search?q=%23eutanasia",
+                "promoted_content": null,
+                "query": "%23eutanasia",
+                "tweet_volume": null
+            },
+            {
+                "name": "#internacionalización",
+                "url": "http://twitter.com/search?q=%23internacionalizaci%C3%B3n",
+                "promoted_content": null,
+                "query": "%23internacionalizaci%C3%B3n",
+                "tweet_volume": null
+            },
+            {
+                "name": "#DíaDeLasEscritoras",
+                "url": "http://twitter.com/search?q=%23D%C3%ADaDeLasEscritoras",
+                "promoted_content": null,
+                "query": "%23D%C3%ADaDeLasEscritoras",
+                "tweet_volume": 23107
+            }
+        ],
+        "as_of": "2018-10-16T15:03:02Z",
+        "created_at": "2018-10-16T15:00:01Z",
+        "locations": [
+            {
+                "name": "Seville",
+                "woeid": 774508
+            }
+        ]
+    }
+]
